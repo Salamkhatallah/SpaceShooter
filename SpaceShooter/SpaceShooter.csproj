@@ -105,6 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Debug\" />
+    <Folder Include="README-assets\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\bac502b7-df1d-47c3-8315-aa9ed98c7f56_removalai_preview.png" />
