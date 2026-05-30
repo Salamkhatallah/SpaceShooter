@@ -26,13 +26,13 @@ The player controls a spaceship and must destroy enemy ships while avoiding coll
 
 ## Gameplay
 
-![Gameplay](README-assets/gameplay.gif)
+![Gameplay](SpaceShooter/README-assets/gameplay.gif)
 
 ## Screenshots
 
-![Main Menu](README-assets/screenshot1.png)
+![Main Menu](SpaceShooter/README-assets/screenshot1.png)
 
-![Game Over](README-assets/screenshot3.png)
+![Game Over](SpaceShooter/README-assets/screenshot3.png)
 
 ## 🚀 How to Run
 
